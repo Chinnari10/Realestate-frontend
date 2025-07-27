@@ -41,3 +41,4 @@ A simple **Real Estate Frontend Website** built using HTML, CSS, and JavaScript.
 ---
 
 
+# A simple **Real Estate Frontend Website** built using HTML, CSS, and JavaScript. This is a fully static frontend project showcasing properties, services, and a professional landing page layout. Designed as a prototype UI for real estate companies and agencies.
